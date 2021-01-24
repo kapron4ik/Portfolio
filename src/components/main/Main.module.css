@@ -1,0 +1,23 @@
+
+.mainBlock {
+    /*height: 100vh;*/
+    height: auto;
+    padding: 40px 0;
+    background-color: #fdaab7;
+    display: flex;
+}
+
+.mainContainer {
+    align-items: center;
+}
+
+.photo {
+    height: 460px;
+    width: 286px;
+    background-color: lightgrey;
+}
+
+.greeting {
+    background-color: lightgrey;
+}
+

@@ -1,0 +1,52 @@
+
+.contactsBlock {
+    /*height: 100vh;*/
+    height: auto;
+    padding: 40px 0;
+    background-color: #fdaac7;
+}
+
+.skillsContainer {
+    flex-direction: column;
+    align-items: center;
+}
+
+.formBlock {
+    width: 286px;
+    /*margin: 0 auto;*/
+    background-color: lightgrey;
+    border: 1px solid;
+    padding-top: 0;
+}
+
+.formBlock input {
+    margin-top: 0;
+    width: 100%;
+}
+
+.formBlock textarea {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.btn {
+    text-decoration: none;
+    width: 160px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #000000;
+    color: white;
+    font-size: 16px;
+    padding: 10px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: black 1px solid;
+}
+
+.btn:hover {
+    background-color: lightgrey;
+    border: black 1px solid;
+    color: black;
+}
+

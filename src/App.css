@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+a, span, h2, h3 {
+  background-color: coral;
+}
